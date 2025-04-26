@@ -1,0 +1,15 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+sentence-transformers==2.6.1
+rank-bm25==0.2.2
+faiss-cpu==1.8.0  # Now supports Python 3.12
+redis==5.0.3
+prometheus-client==0.20.0
+python-multipart==0.0.9
+datasets==2.18.0
+pandas==2.2.1
+numpy==1.26.4
+optimum==1.18.0
+onnxruntime==1.17.1
+torch==2.2.1  # Official 3.12 support since 2.2+
+scikit-learn==1.4.1.post1  # 3.12-compatible
