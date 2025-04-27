@@ -1,0 +1,13 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+sentence-transformers==2.6.1
+rank-bm25==0.2.2
+faiss-cpu==1.8.0
+redis==5.0.3
+prometheus-client==0.20.0
+python-multipart==0.0.9
+datasets==2.18.0
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.1.post1
+setuptools==70.0.0
